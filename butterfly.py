@@ -1,3 +1,5 @@
+# BUTTERFLY PATTERN
+
 row = int(input("Enter number of rows (even): "))
 
 n = row//2
@@ -20,3 +22,5 @@ for i in range(n,0,-1):
         else:
             print("* ", end="")
     print()   
+    
+    #END OF PROGRAM
