@@ -1,5 +1,7 @@
-# Star-Pattern-using-Python
+# Star Pattern using Python Programming
 
-## Pattern Printing
-
- 
+Butterfly
+Number Pattern
+Pyramid Pattern
+Star Pyramid Patterns
+Triangle
