@@ -1,9 +1,8 @@
 # Python Program - Pattern Program 1
 
-		for i in range(0, 5):
-
-    for j in range(0, i+1):
-
-        print("* ",end="")
-
-    print()
+while True:
+	n=int(input("Enter Size of Pattern"))
+	for i in range(0, n):
+		for j in range(0, i+1):
+	  		print("* ",end="")
+    		print()
